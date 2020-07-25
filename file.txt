@@ -45,3 +45,12 @@ to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 
 Administrator@DESKTOP-AS7K910 MINGW64 ~
+
+--사이트에서 처음 하라고 guide
+echo "# HelloWorld" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sungsu-lee/HelloWorld.git
+git push -u origin master
+
