@@ -8,6 +8,6 @@ public class TestController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "index23";
+		return "index23-modifyed by user1";
 	}
 }
