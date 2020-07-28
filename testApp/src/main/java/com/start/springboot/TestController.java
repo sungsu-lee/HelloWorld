@@ -7,8 +7,10 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
 
 	@RequestMapping("/")
+	//this is test sentense. by 0728 user2
 	public String index() {
 		//return "index23-modifyed by user1";
-		return "etr1036";  //by dfsdf
+		//return "etr1036";  //by dfsdf
+		return "0728_modified";  //by dfsdf
 	}
 }
