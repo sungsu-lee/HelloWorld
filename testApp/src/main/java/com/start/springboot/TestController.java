@@ -9,6 +9,7 @@ public class TestController {
 	@RequestMapping("/")
 	public String index() {
 		//return "index23-modifyed by user1";
-		return "etr1036";  //by dfsdf
+		//return "etr1036";  //by dfsdf
+		return "0728_modified";  //by dfsdf
 	}
 }
