@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestAppApplication {
 
 	//start position
+	//test is created by master. after sub
 	public static void main(String[] args) {
 		SpringApplication.run(TestAppApplication.class, args);
 	}
