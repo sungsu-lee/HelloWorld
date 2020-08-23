@@ -16,6 +16,6 @@ public class TestController {
 		//return "0823 modified by master";
 		//return "08231928 modified by master";
 		//return "08231957 modified by sub1";
-		return "뭐라카노";  //by dfsdf
+		return "뭐라카노222";  //by dfsdf
 	}
 }
